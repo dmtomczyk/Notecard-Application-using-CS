@@ -1,0 +1,11 @@
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/daymiantomczyk/Desktop/cSHARP/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
